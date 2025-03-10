@@ -1,0 +1,102 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,predicted_price
+0,40182247,3 bdrm; free internet in pilsen/southloop,306943744,Joe,,Lower West Side,41.85974,-87.65797,Entire home/apt,200,1,1,2020-02-17,0.14,8,365,584.7892642939919
+1,45438479,English Lavender Room,258297883,Darkhan,,Humboldt Park,41.88866,-87.71965,Private room,44,1,0,,,3,1,42.593722939276915
+2,39793384,ROWULA HOUSE - WARM AFRICAN HOSPITALITY IN CHICAGO,13784535,Omar,,South Chicago,41.73711,-87.54816,Private room,45,1,1,2020-08-31,1.0,1,357,59.22399510128244
+3,35942729,Spacious Sedgwick Condo - Steps to Old Town,200416010,Saul,,Near North Side,41.91054,-87.63743,Entire home/apt,255,3,11,2020-09-07,1.09,6,342,322.53399956319885
+4,1468342,Quaint Serenity in Bronzeville,4081052,Suzetta,,Grand Boulevard,41.81266,-87.61586,Private room,55,2,123,2020-02-16,1.42,1,364,63.80585603612076
+5,38870766,"Free parking, 2 blocks from train, 2 bedroom aprtm",59484991,Jady And,,South Lawndale,41.85177,-87.70175,Entire home/apt,67,1,43,2020-09-12,3.66,1,177,86.0949755330239
+6,15257492,让你有如同回家的感觉,96810944,Lin & Peter,,Avondale,41.93574,-87.73037,Private room,30,1,26,2020-07-04,0.54,3,266,30.017495268426945
+7,3308694,"""The Annex II"" Huge 1,600 Sq foot Apartment",16707041,Matthew,,Near West Side,41.8867,-87.64338,Entire home/apt,299,2,38,2020-02-16,0.78,2,361,479.7358157975314
+8,41901706,"Loft apt, easy access to many Chicago hot spots!",94999642,Sarah,,Humboldt Park,41.89845,-87.70402,Entire home/apt,99,1,6,2020-09-05,0.83,1,1,127.17997563604962
+9,4503332,Near The Loop and McCormick Place,20059524,(Email hidden by Airbnb),,Armour Square,41.85586,-87.63569,Entire home/apt,100,1,86,2020-03-15,1.33,3,0,335.88238337793086
+10,9825135,Alewyfe Farm Urban Garden Oasis- free parking!,50604047,Carla,,North Lawndale,41.85687,-87.6949,Entire home/apt,59,9,105,2020-07-01,1.97,1,10,64.77656204620547
+11,36700170,Floral Staycation🌻,46771116,Vladimir,,Humboldt Park,41.90217,-87.71075,Entire home/apt,151,2,41,2020-09-07,2.92,4,82,149.98074967864326
+12,26784095,Lincoln Park Shared Housing for Fun,44618537,Robert,,Lincoln Park,41.9295,-87.64359,Shared room,60,1,26,2019-10-13,0.97,4,365,80.51718484823999
+13,40312719,Relaxing Lincoln Park Getaway Condo,43297766,Lindsay,,Lincoln Park,41.92218,-87.64453,Entire home/apt,78,45,1,2019-12-31,0.11,1,140,152.797106642025
+14,42324385,Comfy Private Room at University of Chicago,336504529,Don,,Woodlawn,41.78436,-87.6052,Private room,55,1,13,2020-08-30,1.88,7,9,48.701093535549425
+15,30396840,"Cozy Gold Coast 1BR w/ Gym, Pool, walk to Mag Mile by Blueground",107434423,Blueground,,Near North Side,41.8989,-87.62797,Entire home/apt,139,30,0,,,205,301,212.74565937898674
+16,39226339,4B|2.5B Chicago Townhome,18670260,Ken,,Lake View,41.94042,-87.67297,Entire home/apt,484,2,3,2019-12-08,0.28,1,0,261.3571135502632
+17,40964912,"Bright Loop 1BR w/ Gym, Roofdeck, nr. Financial District, by Blueground",107434423,Blueground,,Loop,41.87711,-87.63385,Entire home/apt,112,30,0,,,205,360,164.03667702262476
+18,32964420,Old Town Beauty w/ Perfect Location,18751679,Seamus,,Near North Side,41.91028,-87.63683,Entire home/apt,140,2,3,2019-11-11,0.24,1,0,225.70066874187054
+19,16749331,Cozy Unique Large Private Room Lincoln Square,26790353,Jill K,,Lincoln Square,41.9681,-87.69026,Private room,43,2,32,2020-02-09,0.82,1,342,57.72059660682451
+20,29053143,"Sunny, Cozy, Colorful  Andersonville",218940261,Lida,,Uptown,41.97397,-87.67147,Entire home/apt,91,1,71,2020-09-13,3.19,1,129,83.12689887958615
+21,35327978,Dreamy Streeterville Convertible w/ Gym + Pool by Blueground,107434423,Blueground,,Near North Side,41.89063,-87.61903,Entire home/apt,144,30,0,,,205,323,215.87861104419272
+22,41266450,Mindful Pad - 5 minutes away from Midway,256520638,Mateusz,,Clearing,41.77503,-87.79175,Entire home/apt,79,2,3,2020-04-21,0.4,1,77,84.9589422036297
+23,22730148,"Modern, Spacious, New apt. Private entrance.",145776020,Levi,,West Ridge,42.0038,-87.69745,Entire home/apt,58,2,65,2020-03-07,2.04,1,89,72.30010024343133
+24,41910293,"Hip Loop 1BR w/ Gym, Pool, W/D, nr. Financial District, by Blueground",107434423,Blueground,,Loop,41.88608,-87.63422,Entire home/apt,112,30,0,,,205,365,176.35274385276742
+25,37010824,Hurricane Dorian Hostel Crash Pad!,44618537,Robert,,Lincoln Park,41.93005,-87.64557,Shared room,64,1,2,2019-08-11,0.14,4,90,76.19468635172728
+26,37016946,Huge sectional crash spot for short stays.,99642545,Sylvia,,Near North Side,41.90213,-87.63069,Shared room,125,1,1,2019-10-13,0.09,1,0,129.56327919996235
+27,6460914,Cozy cottage in Chicago - dog friendly.,8759336,Patrice,,West Ridge,42.00663,-87.68544,Entire home/apt,82,5,28,2019-12-29,0.44,1,0,74.05053897766324
+28,39646102,Live like a local in Logan Square - Close to train,87601336,Jon,,Logan Square,41.92669,-87.69391,Private room,35,1,13,2020-03-16,1.2,6,0,37.943324426304684
+29,40397617,Sonder | 1BR + Balcony Near Grant Park,12243051,Sonder,,Near South Side,41.86246,-87.62487,Entire home/apt,171,4,20,2020-06-30,2.25,47,168,191.6635496243273
+30,30740972,CASTLE IN THE SKY - 10 Minutes to ALL FUN!,45284138,Kenny,,Lake View,41.93647,-87.6496,Private room,80,3,31,2020-07-26,1.68,2,89,66.77710218026299
+31,7810018,East Lakeview 2 Br Penthouse w/ private balcony,173968333,Irena,,Lake View,41.94043,-87.65235,Entire home/apt,86,1,405,2020-09-04,6.59,4,325,156.80133520061815
+32,38595025,"Spacious Gold Coast 2BR w/ Gym, Roof Deck, near Water Tower by Blueground",107434423,Blueground,,Near North Side,41.89861,-87.62068,Entire home/apt,140,30,1,2019-12-24,0.11,205,323,208.36697906868125
+33,9115645,Spacious Kitschy Logan Square Retreat,4809843,Jessica & Nathan,,Logan Square,41.91676,-87.70682,Entire home/apt,95,2,88,2020-07-12,1.71,1,119,314.1580829796279
+34,43938783,DownTown private sleeping PODS room in Hotel BnB-3,347797890,Azhar,,Near South Side,41.86582,-87.62329,Private room,59,1,0,,,15,90,86.54857790625115
+35,41114355,Cozy and Comfy in Lakeview,226433030,Sam,,Lake View,41.94148,-87.64453,Entire home/apt,120,3,4,2020-09-07,0.63,1,166,370.77915221052433
+36,41724109,Steps to UChicago | Easy Access + W&D | Zencity,47172572,Zencity,,Hyde Park,41.79621,-87.59732,Entire home/apt,69,1,29,2020-08-26,3.87,62,106,170.5838049070597
+37,221109,1 Bedroom Apartment -Noble Square,1146738,Zeyna,,West Town,41.89273,-87.65654,Entire home/apt,99,20,112,2019-10-15,1.03,1,0,526.996970698713
+38,7070958,"Bright, spacious sanctuary duplex, modern hacienda",30226970,Irma,,West Town,41.89039,-87.68407,Entire home/apt,149,5,3,2017-10-11,0.07,1,38,197.41571942074958
+39,30023762,ThePARADISE/8mMidway20mDowntownQuietArea.FreeWiffi,223534020,Fortino,,Brighton Park,41.81016,-87.71075,Entire home/apt,55,1,73,2020-09-14,3.25,4,344,47.86945229321333
+40,33409131,4Dza Luxurious Stay - Two Bedroom Suite Chicago,22094147,Alexis & Bill,,East Garfield Park,41.87733,-87.70232,Private room,29,2,2,2019-10-04,0.15,14,229,28.235393632468316
+41,25826424,Bucktown Home - Great Location!,194061478,Austin,,Logan Square,41.91733,-87.68412,Entire home/apt,509,2,38,2020-04-23,1.37,1,170,373.39901578056094
+42,18509024,Entire Chicago House near Wrigley and Logan Square,5403537,Dustin,,Avondale,41.93326,-87.6917,Entire home/apt,111,2,125,2020-08-01,3.05,1,170,98.85607566434471
+43,39551455,Luxurious Private Suite with Lake View,303686027,Viceroy,,Near North Side,41.90148,-87.62849,Private room,595,1,0,,,9,72,430.4812061027637
+44,33719692,G. MANSION SHARED BEDROOM G_BOTTOM BUNK BED,163484540,Francineuma Vitoriano Dos Santos,,Calumet Heights,41.72948,-87.57719,Shared room,15,14,22,2020-08-16,1.27,12,340,15.459297847169166
+45,6419072,Unique and Cozy updated home,7430573,Melissa,,Irving Park,41.95576,-87.72881,Entire home/apt,69,6,8,2017-10-14,0.18,1,0,69.7192429191466
+46,6716705,3BD/2BA (vs2) Perfect 4 Families/walk to shops,683529,Joe,,North Center,41.94072,-87.68115,Entire home/apt,233,2,32,2020-09-07,0.53,20,343,376.40964057921343
+47,27426067,Hip Logan Square SPACIOUS & CLEAN 2 Bed Apt!,195467041,Melanie,,Logan Square,41.92707,-87.71388,Entire home/apt,115,1,55,2020-09-06,2.12,2,326,182.89803937174784
+48,34537370,GOATHOTE | SPACIOUS/VINTAGE STYLE 2/1APT | CHICAGO,244000490,Goathote,,West Town,41.8954,-87.68575,Entire home/apt,80,1,44,2020-08-30,2.65,18,348,150.05173756850309
+49,25971516,C. MANSION SHARED BEDROOM 4-BED C_BOTTOM BUNK,163484540,Francineuma Vitoriano Dos Santos,,Calumet Heights,41.72933,-87.57679,Shared room,15,7,54,2020-09-08,1.98,12,344,15.459297847169166
+50,28948832,Bright Spacious Bedroom with closet BB1,18714715,Aiste,,Near West Side,41.87976,-87.68795,Private room,35,32,5,2020-08-24,0.28,9,303,29.18882657942333
+51,41659636,Crystals place,294869995,Nita,,Hyde Park,41.7959,-87.58261,Entire home/apt,200,1,0,,,1,89,310.1371066195136
+52,40680627,KING BED CORNER UNIT in DOWNTOWN CHICAGO + BALCONY,33127842,Kari,,Loop,41.88774,-87.61929,Entire home/apt,155,32,0,,,26,365,194.18831985849658
+53,3088192,Logan Square Apartment,15710890,Paul & Sarah,,Logan Square,41.93156,-87.71161,Entire home/apt,150,1,394,2020-03-15,5.18,1,320,153.92020948251096
+54,38449270,Spacious and private.,293105500,Lorraine,,West Ridge,42.01886,-87.70368,Private room,48,1,0,,,1,179,57.3247901755995
+55,36814026,"The Blue Room: Queer Host, Dog, Biker friendly!",25901089,Jaq,,Albany Park,41.97198,-87.7188,Private room,23,2,7,2020-08-29,0.5,2,122,43.694827850254306
+56,15115673,Two blocks from Wrigley Field and the Metro.,21686213,Laura,,Lake View,41.94875,-87.66034,Private room,63,1,154,2020-08-09,3.25,1,179,82.33407502640975
+57,14531526,Spacious Clean Chicago Three Bedroom w/Parking,85455802,Lou,,West Town,41.89286,-87.68706,Entire home/apt,282,2,111,2020-03-16,2.25,1,180,152.79484178854347
+58,28405971,West Town Nook,52806890,Inez,,West Town,41.89692,-87.67126,Entire home/apt,75,2,76,2020-09-06,3.09,1,67,139.1917152257376
+59,929914,Charming apartment in Old Town,5007980,Lynn,,Lincoln Park,41.91316,-87.63813,Entire home/apt,115,2,311,2020-09-07,3.42,1,254,110.25444226484304
+60,36452514,United Center Living Room,45735396,Emrah,,Near West Side,41.88074,-87.68164,Shared room,10,1,2,2020-08-28,0.49,4,324,16.606908247797953
+61,21647029,Huge Duplex in Roscoe Village/Lakeview,157546882,Eleanor,,North Center,41.94666,-87.67508,Entire home/apt,198,3,118,2020-09-07,3.41,1,84,202.54639200559058
+62,166667,Cozy Garden Studio,791089,Conrad,,North Center,41.94274,-87.67378,Entire home/apt,125,3,88,2019-10-19,0.79,4,365,373.1469700993449
+63,20757313,WrigleyVilla - 1/2 Block From Wrigley Field!,127574066,Kit & Jo,,Lake View,41.95109,-87.65508,Entire home/apt,379,2,48,2019-10-13,1.31,1,90,381.9743105511822
+64,13940726,"Lights, Camera, Action! Studio Space for Artists!",26957265,Beth,,West Town,41.89099,-87.68188,Entire home/apt,250,1,0,,,4,324,299.4825011133045
+65,22152280,Entire Apartment Near (Francisco) Brown Line Train,50484261,Sofia,,Albany Park,41.96982,-87.70518,Entire home/apt,40,1,46,2019-10-20,1.38,2,42,40.94881482116525
+66,39116213,Modern Suite Just Steps Away from Blue Line!,37421435,Elm,,West Town,41.89311,-87.6596,Entire home/apt,76,3,33,2020-09-15,3.49,1,89,165.4995961599847
+67,39929071,Clean and Modern room is Brand New Condo,22126268,Dee,,West Town,41.89339,-87.66023,Private room,55,1,1,2019-12-27,0.11,1,84,64.44002754106769
+68,34977420,"Steps to Shop, Eat, Train | Easy Access | Zencity",47172572,Zencity,,West Town,41.89663,-87.66047,Entire home/apt,59,1,44,2020-09-10,2.78,62,140,145.74097452596854
+69,42323017,The Cozy Studio Apt - Book 6 Nights Get 1 FREE,248760412,Cloud9,,Near South Side,41.85314,-87.6223,Entire home/apt,99,2,4,2020-08-23,1.46,4,100,224.78713468614603
+70,44180208,Best Deal 2BR Apt. For Short & Long Term Stay,353417156,Victoria And Alex,,Lake View,41.94392,-87.64616,Entire home/apt,200,1,0,,,10,263,392.34172872571617
+71,15957773,Traveler's Dream - 1 bed in a shared bedroom,57387860,Freehand,,Near North Side,41.89235,-87.62732,Hotel room,31,7,12,2020-01-10,0.3,24,330,17.19067604250325
+72,26707623,"Have an exciting stay in this modern studio, fast wifi",8534462,Barsala,,Near North Side,41.88982,-87.63407,Entire home/apt,179,2,16,2020-07-31,0.88,47,56,304.6230998494151
+73,38839516,GOATHOTE | COOL/MODERN/STYLISH/ 3/1 APT | CHICAGO,244000490,Goathote,,Lincoln Square,41.97477,-87.68925,Entire home/apt,78,1,14,2020-08-21,1.18,18,357,69.66930065114627
+74,19730133,Lincoln Park/DePaul Garden Suite/CLOSE TO EXIT,139094281,Lynne,,Lincoln Park,41.91673,-87.65495,Private room,59,1,141,2020-09-07,3.63,3,81,53.670510044307264
+75,26628029,E. MANSION SHARED BEDROOM 4-BED E_BOTTOM BUNK,163484540,Francineuma Vitoriano Dos Santos,,Calumet Heights,41.72799,-87.57816,Shared room,25,24,35,2020-08-14,1.32,12,356,15.459297847169166
+76,26629261,B. MANSION SHARED BEDROOM 4-BED B_TOP BUNK,163484540,Francineuma Vitoriano Dos Santos,,Calumet Heights,41.72945,-87.57811,Shared room,14,1,50,2020-09-04,1.87,12,353,15.445067077938397
+77,1755737,"Lake View 2BR/2Bath w/ Pool, Gym. Annual lease.",9233414,Ravi,,Lake View,41.94036,-87.64068,Entire home/apt,155,365,0,,,1,363,270.3338856580511
+78,3811926,The Blue Room,11231030,Erik,,West Lawn,41.78384,-87.72759,Private room,34,1,413,2020-09-06,5.54,2,360,36.96204161653618
+79,40610780,"Private Rm,Queen,separate entrance,free park, apt",97870070,Daniel,,Near West Side,41.87079,-87.65727,Private room,30,1,5,2020-01-01,0.52,1,174,30.62953254625062
+80,29385780,~ LAVISH CHICAGO RESIDENCE ~ FREE PARKING,94561128,Alex,,Albany Park,41.96523,-87.71074,Private room,71,32,24,2020-05-30,1.08,11,78,54.87801076638789
+81,31443658,Gorgeous Humboldt Park Flat,1921252,Miranda & Marcos,,Humboldt Park,41.90166,-87.70863,Entire home/apt,90,30,17,2020-05-02,0.84,1,167,96.09181192487883
+82,42395555,"1BR w/ Gym, Pool, W/D, nr. Millennium Park, by Blueground",107434423,Blueground,,Loop,41.88726,-87.62384,Entire home/apt,129,30,0,,,205,351,163.29354349898856
+83,37380402,Quiet Oasis on the Lake,10921133,Steve And Phyll,,Rogers Park,42.01905,-87.66477,Entire home/apt,89,45,1,2019-12-20,0.11,2,227,166.81055746169477
+84,10634388,THE ART OF CITY LIVING - Luxury River North  2 BD,3965428,Rob,,Near North Side,41.89625,-87.63626,Entire home/apt,250,60,4,2017-11-01,0.09,73,365,212.23670931717473
+85,25244851,Comfort and Convenience in West Wicker Park,57277343,Rene,,West Town,41.90332,-87.68975,Entire home/apt,94,2,37,2019-10-09,1.38,1,0,204.58257685268848
+86,36667074,Steps from Mag Mile - King Bed Boutique Hotel,265201380,St Jane,,Loop,41.88714,-87.62413,Hotel room,9999,1,32,2020-03-22,2.27,3,168,9570.429722222221
+87,36668214,Steps from Mag Mile -Suite in Boutique Hotel,265201380,St Jane,,Loop,41.88607,-87.62443,Hotel room,9999,1,3,2019-08-25,0.22,3,173,9595.63794771242
+88,36668235,Steps from Mag Mile - 2 Queen Beds Boutique Hotel,265201380,St Jane,,Loop,41.88621,-87.62385,Hotel room,9999,1,22,2020-03-10,1.59,3,173,9592.418404977376
+89,20641086,2 Rooms & Private Bath Near Downtown Chicago,26928601,Idaima,,Lower West Side,41.85933,-87.66227,Private room,75,2,29,2018-10-09,0.81,1,0,67.93850237876163
+90,34913110,Oasis 1 #2324 - 4 Bedroom Condo - McCormick Place,178710732,Annie,,Armour Square,41.85177,-87.6321,Entire home/apt,399,1,6,2019-11-14,0.41,19,355,439.4549949621242
+91,43815872,Kasa | Chicago | Epic Studio South Loop Apartments,88566861,Kasa,,Loop,41.86964,-87.63025,Entire home/apt,166,2,4,2020-08-30,1.64,45,340,264.7368245776841
+92,21252535,#5 Historic Chicago Home - Private Queen Bedroom,163699318,Natalie,,Rogers Park,42.01148,-87.66314,Private room,44,1,146,2020-09-07,4.07,7,11,42.53590884809634
+93,14883494,The Compound a hidden oasis in Logan Square,1187822,Mark,,Logan Square,41.91973,-87.69599,Entire home/apt,195,3,26,2020-03-04,0.53,1,117,438.35303951876017
+94,38541721,#1 LOCATION MONTHLY STAY TV WIFI + in unit Laundry,3965428,Rob,,Near North Side,41.89901,-87.62177,Entire home/apt,125,31,1,2020-03-17,0.16,73,365,197.8670399683705
+95,40068740,"CLEAN DOWNTOWN APARTMENT, SAFE AREA + FREE PARKING",55976787,Natalia,,Near West Side,41.87147,-87.66432,Private room,25,10,20,2020-04-17,1.93,11,158,27.694604720808083
+96,24965357,Skylit Boho Retreat - Wicker Park NO PARTIES,1649647,Bianca,,West Town,41.91162,-87.66674,Entire home/apt,159,2,65,2020-09-06,2.28,5,87,166.09407856066852
+97,42951283,"Bright Gold Coast 1BR w/ Gym, Lounge, nr. Oak St. Beach, by Blueground",107434423,Blueground,,Near North Side,41.8988,-87.62981,Entire home/apt,144,30,0,,,205,0,226.13905702847637
+98,642053,Large Double Queen Studio Apartment in Wicker Park,81779,Laura,,West Town,41.90567,-87.67311,Hotel room,160,2,11,2020-03-08,0.12,11,0,244.57176188462904
+99,7092080,1 BD Luxury Boutique Apartment,24705990,Rick,,Uptown,41.97195,-87.66733,Hotel room,266,3,32,2019-09-17,0.51,12,282,403.318908461492
+100,43078540,Found Hotel Chicago River North,315027620,Found Hotel Chicago River North,,Near North Side,41.89288,-87.63377,Hotel room,0,1,0,,,1,0,22.9590543757713
